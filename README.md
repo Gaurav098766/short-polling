@@ -1,6 +1,7 @@
 # short-polling
 
 Request is taking a while, I’ll check with you later.
+
 i)	Client sends a request.
 
 ii)	Server responds immediately with a handle(identifier or token) to acknowledge the receipt of the request.
